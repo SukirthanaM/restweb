@@ -520,7 +520,11 @@ footer {
 
 ```
 ## OUTPUT:
-
+![alt text](<Screenshot (34).png>)
+![alt text](<Screenshot (35).png>)
+![alt text](<Screenshot (37).png>)
+![alt text](<Screenshot (38).png>)
+![alt text](<Screenshot (39).png>)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
